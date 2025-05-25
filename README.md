@@ -19,4 +19,4 @@
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z3n175un1&size_weight=0.5&count_weight=0.5)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z3n175un1&size_weight=0.5&count_weight=0.5)
