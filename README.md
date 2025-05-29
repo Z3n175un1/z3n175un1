@@ -7,7 +7,7 @@ Actualmente basado en **La Paz, Bolivia 🇧🇴**.
 
 ### 🧠 Tecnologías que uso
 
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** '/HTML/', '/CSS/', '/JavaScript/'  
 - **Backend / Lenguajes principales:** C, C#, JavaScript, PHP  
 
 ---
